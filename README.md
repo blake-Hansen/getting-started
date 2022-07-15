@@ -15,19 +15,9 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone https://github.com/TLM-Alumni/getting-started.git 
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-
-For example:
-
-```
-git clone https://github.com/this-is-you/getting-started.git
-
-```
-
-where `this-is-you` is your GitHub username. Here you're copying the contents of the getting-started repository on GitHub to your computer.
 
 ## Create a branch
 
